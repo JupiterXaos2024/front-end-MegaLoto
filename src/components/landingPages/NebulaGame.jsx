@@ -4,7 +4,7 @@ import './css/NebulaGame.css';
 
 const NebulaGame = () => {
   const handleExploreGames = () => {
-    window.location.href = '/NebulaGame/MegaLotoExpress';
+    window.location.href = '/NebulaGame/login';
   };
 
   

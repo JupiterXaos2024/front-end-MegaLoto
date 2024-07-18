@@ -4,7 +4,6 @@ import io from 'socket.io-client';
 
 // Asegúrate de que la URL sea la correcta para tu servidor
 const socket = io('https://server-back-end-megaloto.onrender.com');
-console.log(socket)
 
 
 const Balota = () => {
